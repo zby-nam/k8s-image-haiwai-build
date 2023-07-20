@@ -1,1 +1,1 @@
-FROM banzaicloud/log-generator:0.3.2
+FROM ghcr.io/banzaicloud/log-generator:0.3.2
