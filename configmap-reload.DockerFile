@@ -1,1 +1,1 @@
-FORM jimmidyson/configmap-reload:v0.4.0
+FROM jimmidyson/configmap-reload:v0.4.0
